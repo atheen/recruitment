@@ -1,6 +1,6 @@
 def main():
 	#write your code here
-	skills = ["Python","C++","JavaScript","Juggling","Running","Eating"]
+	skills = ["Python", "C++", "JavaScript", "Meeting", "Leeting", "Eating"]
 	cv = {}
 	print("Welcome to the special recruitment program, please answer the following questions:")
 	cv["name"] = input("What's your name? ")
